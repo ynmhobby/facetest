@@ -462,11 +462,20 @@ input:checked + label > .knob > i:after {
   top: 14.5px;
   width: 12px;
   left: -7px;
-  transform: rotate(45deg);
+  transform: rotate(45deg) ;
 }
 input:checked + label > .knob > i:before {
   top: 13px;
   width: 12px;
   left: 0px;
   transform: rotate(134deg);
+}
+.add-banner1 {
+	width: 320px;
+	margin: 0 auto;
+}
+
+.add-banner2 {
+	width: 320px;
+	margin: 0 auto;
 }
