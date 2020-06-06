@@ -470,12 +470,12 @@ input:checked + label > .knob > i:before {
   left: 0px;
   transform: rotate(134deg);
 }
-.add-banner1 {
+.ad-banner1 {
 	width: 320px;
 	margin: 0 auto;
 }
 
-.add-banner2 {
+.ad-banner2 {
 	width: 320px;
 	margin: 0 auto;
 }
