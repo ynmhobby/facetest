@@ -489,3 +489,7 @@ input:checked + label > .knob > i:before {
 	width: 320px;
 	margin: 0 auto;
 }
+
+.blog-prc {
+ color: #3ba363;
+}
