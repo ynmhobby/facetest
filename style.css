@@ -492,4 +492,5 @@ input:checked + label > .knob > i:before {
 
 .blog-prc {
  color: #3ba363;
+    font-size: 1.0rem;
 }
