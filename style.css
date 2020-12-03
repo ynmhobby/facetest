@@ -494,3 +494,8 @@ input:checked + label > .knob > i:before {
  color: #3ba363;
     font-size: 1.0rem;
 }
+
+.ad-banner5 {
+	width: 300px;
+	margin: 0 auto;
+}
