@@ -502,5 +502,5 @@ input:checked + label > .knob > i:before {
 
 .ad-banner6 {
 	width: 300px;
-	margin: 0 left;
+	margin: 0 auto;
 }
