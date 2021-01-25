@@ -476,12 +476,12 @@ input:checked + label > .knob > i:before {
 
 }
 .ad-banner1 {
-	width: 320px;
+	width: 300px;
 	margin: 0 auto;
 }
 
 .ad-banner2 {
-	width: 320px;
+	width: 300px;
 	margin: 0 auto;
 }
 
@@ -496,6 +496,11 @@ input:checked + label > .knob > i:before {
 }
 
 .ad-banner5 {
+	width: 300px;
+	margin: 0 auto;
+}
+
+.ad-banner6 {
 	width: 300px;
 	margin: 0 auto;
 }
