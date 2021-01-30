@@ -130,6 +130,11 @@ body {
     border-color: #BDBDBD;
 }
 
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #007bff;
+}
+
 .section {
     margin-top: 30px;
 }
