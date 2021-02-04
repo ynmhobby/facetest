@@ -500,12 +500,19 @@ input:checked + label > .knob > i:before {
     font-size: 1.0rem;
 }
 
+
+.grade {
+ color: #6799FF;
+    font-size: 1.1rem;
+	margin-bottom:20px;
+}
+
 .ad-banner5 {
 	width: 300px;
 	margin: 0 auto;
 }
 
 .ad-banner6 {
-	width: 300px;
+	width: 160px;
 	margin: 0 auto;
 }
