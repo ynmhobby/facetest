@@ -206,7 +206,7 @@ body {
 .bar-container {
   height: 2.7rem;
 }
-.최상위천상계-box {
+.최상위 천상계-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -215,7 +215,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.최상위천상계-bar {
+.최상위 천상계-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -330,7 +330,7 @@ body {
   color: #ffffff;
 }
 .eye-label {
-    width: 20%;
+    width: 30%;
     text-align: left;
     height: 2rem;
 }
