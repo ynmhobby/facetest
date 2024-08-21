@@ -626,22 +626,14 @@
         </div>
       </div>
 
+      <script src="//www.mediacategory.com/js/common/HawkEyesMaker.js"></script>
       <script>
-        function iosApp() {
-          document.getElementById("coupang").style.display = "none";
-          $("#coupang ins").hide();
-          document.getElementById("addThis").style.display = "none";
-          document.getElementById("disqus_thread").style.display = "none";
-          var kakao = document.getElementsByClassName("kakao_ad_area");
-          for (var i = 0; i < kakao.length; i++) {
-            if (kakao[i]) {
-              kakao[i].style.display = "none";
-            }
-          }
-          document.getElementById("yotube-top-link").style.display = "none";
-          document.getElementById("yotube-mid-link").style.display = "none";
-          document.getElementById("yotube-bottom-link").style.display = "none";
-        }
+        new HawkEyes({
+          type: "infinite",
+          platform: "M",
+          scriptCode: "938254",
+          settings: { cntad: "31", totCnt: "31" },
+        });
       </script>
     </div>
   </body>
